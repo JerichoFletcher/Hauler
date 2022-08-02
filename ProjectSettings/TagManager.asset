@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcessing
+  - Water
+  - UI
+  - Interactable
+  - Obstacle
+  - Room
+  - Entity
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Entities
+    uniqueID: 1430913915
+    locked: 0
+  - name: WallObjects
+    uniqueID: 3172472961
+    locked: 0
+  - name: Walls
+    uniqueID: 1075298539
+    locked: 0
+  - name: UI
+    uniqueID: 811147413
+    locked: 0
